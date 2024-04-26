@@ -1,0 +1,14 @@
+.inputtxt{
+  border: 2px solid;
+  width: 20vw;
+  padding: 5px;
+  font-size: larger;
+  margin: 4vh auto;
+  align-items: center;
+  display: block;
+}
+
+.imgset{
+  margin: 0 auto;
+  display: block;
+}
