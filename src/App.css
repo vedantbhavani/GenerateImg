@@ -10,6 +10,5 @@
 .imgset{
   margin: 0 auto;
   display: block;
-  box-sizing:content-box;
-  
+  box-sizing:content-box; 
 }
